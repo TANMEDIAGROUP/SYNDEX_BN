@@ -2,7 +2,7 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from api.models import UserModel
 from .serializer import UserSerialize
-from api.middleware.cloud import  handleFileActions
+from api.src.middleware.cloud import  handleFileActions
 
 @api_view(['GET'])
 def root(request):
