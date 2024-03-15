@@ -1,0 +1,6 @@
+env
+./src/__pycache__
+comments.txt
+__pycache__
+comments.txt
+migrations
