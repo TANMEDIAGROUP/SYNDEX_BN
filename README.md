@@ -1,4 +1,4 @@
-# syndex-bn
+# SYNDEX BACKEND
 
 syndex-bn is a Django REST project that provides APIs for users, news articles, and utilizes machine learning models to ingest data and interact with users.
 
